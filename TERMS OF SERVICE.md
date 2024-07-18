@@ -25,3 +25,5 @@ By using this Discord bot ("Infinity"), you agree to the following Terms of Serv
 11. **Governing Law**: These Terms of Service shall be governed by and construed in accordance with the laws of [Thailand].
 
 If you do not agree with these Terms of Service, you must refrain from using the Bot.
+
+# ALL DATA WILL BE DELETED EVERY 1 HOUR TO 30 DAYS
