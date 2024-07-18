@@ -30,10 +30,8 @@ This Privacy Policy outlines how your personal information is collected, used, a
 
 This Privacy Policy may be updated periodically to reflect changes in the Bot’s operations or legal requirements. We encourage you to review this page periodically for any updates. Your continued use of the Bot after changes are posted constitutes your acceptance of the modified Privacy Policy.
 
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at [your contact information].
-
 ---
 
 By using this Discord bot, you agree to the terms outlined in this Privacy Policy.
+
+# ALL DATA WILL BE DELETED EVERY 1 HOUR TO 30 DAYS
