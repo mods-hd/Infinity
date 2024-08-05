@@ -22,7 +22,7 @@ By using this Discord bot ("Infinity"), you agree to the following Terms of Serv
 
 10. **Feedback**: Any feedback, comments, or suggestions provided regarding the Bot may be used by the developers without restriction or compensation.
 
-11. **Governing Law**: These Terms of Service shall be governed by and construed in accordance with the laws of [Thailand].
+11. **Governing Law**: These Terms of Service shall be governed by and construed in accordance with the laws of Thailand.
 
 If you do not agree with these Terms of Service, you must refrain from using the Bot.
 
